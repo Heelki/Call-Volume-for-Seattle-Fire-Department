@@ -5,7 +5,7 @@ and especially the time of day. Someone has to decide how many dispatchers are o
 Hence, we are looking for a model, which can predict the call volume for each day of the year and
 each hour of the day.
 
-To solve this challenge, I relayed on the time series analysis. 
+To solve this challenge, I used the time series analysis. 
 
 The data set is publicly available.
 
