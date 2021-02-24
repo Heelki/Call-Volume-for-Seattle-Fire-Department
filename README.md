@@ -9,7 +9,7 @@ To solve this challenge, I relayed on the time series analysis.
 
 The data set is publicly available.
 
-The notebook Call Volume for Seattle Fire Department.ipynb contains 3 main parts:
+The notebook Call_Volume_for_Seattle_Fire_Department.ipynb contains 3 main parts:
 - The first is a basic data visualization 
 - The second is a model based on Fourier transformation. It assumes that the second highest-amplitude frequency plus an offset are enough to fit the data.
 - The third is a more complex SARIMA model, which uses iteration over a specific parameter interval and minimum AIC value to find the best fit for the data.
